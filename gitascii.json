@@ -11608,48 +11608,12 @@
       "instanceId": "widget_1788005695052_3"
     },
     {
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 800,
-        "height": 88
-      },
-      "config": {
-        "selectedSocials": [
-          "website",
-          "email",
-          "linkedin",
-          "instagram"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/krobbus",
-          "instagram": "https://www.instagram.com/ajloresca",
-          "linkedin": "https://www.linkedin.com/in/alefjustinloresca/",
-          "email": "mailto:lorescajustin@gmail.com",
-          "website": "https://alefjustinloresca.vercel.app/"
-        },
-        "badgeStyle": "for-the-badge",
-        "animationType": "slide-right",
-        "animationPreviewKey": 1,
-        "backgroundColor": "transparent",
-        "hideBorder": true
-      },
-      "locked": true,
-      "visible": true,
-      "zIndex": 8,
-      "instanceId": "widget_1788005695052_4"
-    },
-    {
       "instanceId": "widget_1788007679841",
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 24,
-        "y": 506
+        "x": 25,
+        "y": 410
       },
       "size": {
         "width": 752,
@@ -11667,6 +11631,46 @@
           "#39d353",
           "#69f0a0"
         ]
+      },
+      "locked": true,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788182899862",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 640
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "css",
+          "js",
+          "ts",
+          "react",
+          "nextjs",
+          "tailwind",
+          "vite",
+          "nodejs",
+          "express",
+          "postgres",
+          "mysql",
+          "firebase",
+          "git",
+          "github",
+          "vercel",
+          "figma",
+          "vscode",
+          "githubactions"
+        ],
+        "hideDecorations": false
       },
       "locked": false,
       "visible": true,
