@@ -1,8 +1,9 @@
 # Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-## I am Alef Justin Loresca, people call me Alef, a Full-Stack Developer from San Pedro, Laguna, Philippines. Always open to collaborating on projects, feel free to connect with me here:
+## I am Alef Justin Loresca, people call me Alef, a Full-Stack Developer from San Pedro, Laguna, Philippines. ![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) please :(
+## Always open to collaborating on projects, feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-alefjustinloresca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefjustinloresca/)](https://www.linkedin.com/in/alefjustinloresca/)
+[![Linkedin Badge](https://img.shields.io/badge/-alefjustinloresca-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefjustinloresca/)
 [![Instagram Badge](https://img.shields.io/badge/-ajloresca-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ajloresca/)](https://instagram.com/ajloresca/)
 [![Gmail Badge](https://img.shields.io/badge/-lorescajustin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorescajustin@gmail.com)](mailto:lorescajustin@gmail.com)
 
@@ -35,3 +36,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+## Visit my [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/alefjustinloresca/)](https://www.freecodecamp.org/alefjustinloresca/) profile too here!
