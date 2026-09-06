@@ -1,7 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-## I am Alef Justin Loresca, people call me Alef, a Full-Stack Developer from San Pedro, Laguna, Philippines. ![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) please :(
-## Always open to collaborating on projects, feel free to connect with me here:
+## I am Alef Justin Loresca, people call me Alef, a Full-Stack Developer from San Pedro, Laguna, Philippines. Always open to collaborating on projects, feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-alefjustinloresca-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefjustinloresca/)
 [![Instagram Badge](https://img.shields.io/badge/-ajloresca-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ajloresca/)](https://instagram.com/ajloresca/)
