@@ -1,10 +1,10 @@
-# Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hello there!
 
-## I am Alef Justin Loresca, people call me Alef, a Full-Stack Developer from San Pedro, Laguna, Philippines. Always open to collaborating on projects, feel free to connect with me here:
+## I am Alef Justin Loresca, people call me Alef, a Full-Stack Developer from San Pedro, Laguna, Philippines. Always open to collaborating on projects, visit my [portfolio](https://alefjustinloresca.vercel.app) and feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-alefjustinloresca-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefjustinloresca/)
-[![Instagram Badge](https://img.shields.io/badge/-ajloresca-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ajloresca/)](https://instagram.com/ajloresca/)
-[![Gmail Badge](https://img.shields.io/badge/-lorescajustin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorescajustin@gmail.com)](mailto:lorescajustin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Connect_with_me_@alefjustinloresca-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefjustinloresca/)
+[![Instagram Badge](https://img.shields.io/badge/Follow_me_@ajloresca-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ajloresca/)](https://instagram.com/ajloresca/)
+[![Gmail Badge](https://img.shields.io/badge/Email_me_@lorescajustin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorescajustin@gmail.com)](mailto:lorescajustin@gmail.com)
 
 ## Technologies
 
