@@ -33,6 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-F24E1E?logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)
 
 ## Visit my [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/alefjustinloresca/)](https://www.freecodecamp.org/alefjustinloresca/) profile too here!
